@@ -1,0 +1,27 @@
+Listing the permissions assigned to Principals[Users/Groups/Roles].
+
+
+The attached sample package will help to retrieve the permissions assigned to Principals such as users, groups and roles in MWS.
+
+Instructions to install the sample
+-----------------------------------
+
+1.	Using Designer -> File -> Import -> SoftwareAG -> Existing Projects into Workspace
+2.	Select this archive file “wm_permissions_sample.zip”
+3.	Import it and publish it to MWS runtime
+4.	Create user friendly folder navigations if you would like to under Public Folders and map these portlets
+5.	WmPermissionTest will help to fetch all the Principals with the Permissions configured.
+
+
+
+
+
+Dear TECHcommunity Member
+
+Thank you for posting this code sample and making it available to all community members.
+
+Please note that the code samples library is currently in moderated mode. The sample you have posted will be soon reviewed and available at the URL: http://techcommunity.softwareag.com/ecosystem/communities/codesamples/webmethods/caf/SAMPLE-20141202193552955.html. To make further edits to this code sample or to any of the existing ones please use the link "Modify this Code Sample".
+
+To go to the Communities home page, please click here. To continue with the Code Samples Overview, please click here.
+Your Software AG TECHcommunity Team
+  
